@@ -140,7 +140,7 @@ ol {
   appearance: none;
 }
 
-.search-form__checkbox-list{
+.search-form__checkbox-list {
   display: flex;
   column-gap: 15px;
 }
@@ -289,15 +289,12 @@ ol {
 
 .content__card-link {
   display: block;
+  text-decoration: none;
+  color: #fff;
 }
 
 .content__list-item:last-child {
   margin-bottom: 30px;
-}
-
-.content__card-link {
-  text-decoration: none;
-  color: #fff;
 }
 
 .content__video-card-description-container {
